@@ -1,1 +1,40 @@
-{"componentChunkName":"component---cache-dev-404-page-js","path":"/dev-404-page/","result":{"data":{"allSitePage":{"nodes":[{"path":"/vaporwave/"},{"path":"/darkness/"},{"path":"/dont-stop/"},{"path":"/its-all-blue/"},{"path":"/clean-lines/"},{"path":"/all-spikes/"},{"path":"/green/"},{"path":"/get-fruity/"},{"path":"/fur/"},{"path":"/hi-folks/"},{"path":"/my-second-post/"},{"path":"/hello-world/"},{"path":"/tags/vaporwave/"},{"path":"/tags/retrowave/"},{"path":"/tags/future-funk/"},{"path":"/tags/pink/"},{"path":"/tags/color/"},{"path":"/tags/blue/"},{"path":"/tags/green/"},{"path":"/404/"},{"path":"/about/"},{"path":"/elements/"},{"path":"/"},{"path":"/tags/"},{"path":"/404.html"}]}},"pageContext":{}},"staticQueryHashes":[]}
+{
+  "componentChunkName": "component---cache-dev-404-page-js",
+  "path": "/dev-404-page/",
+  "result": {
+    "data": {
+      "allSitePage": {
+        "nodes": [
+          { "path": "/dal-commacaron/" },
+          { "path": "/darkness/" },
+          { "path": "/its-all-blue/" },
+          { "path": "/clean-lines/" },
+          { "path": "/all-spikes/" },
+          { "path": "/green/" },
+          { "path": "/get-fruity/" },
+          { "path": "/fur/" },
+          { "path": "/vaporwave/" },
+          { "path": "/hi-folks/" },
+          { "path": "/my-second-post/" },
+          { "path": "/hello-world/" },
+          { "path": "/tags/store/" },
+          { "path": "/tags/인테리어/" },
+          { "path": "/tags/blue/" },
+          { "path": "/tags/color/" },
+          { "path": "/tags/green/" },
+          { "path": "/tags/vaporwave/" },
+          { "path": "/tags/retrowave/" },
+          { "path": "/tags/future-funk/" },
+          { "path": "/404/" },
+          { "path": "/about/" },
+          { "path": "/elements/" },
+          { "path": "/" },
+          { "path": "/tags/" },
+          { "path": "/404.html" }
+        ]
+      }
+    },
+    "pageContext": {}
+  },
+  "staticQueryHashes": []
+}

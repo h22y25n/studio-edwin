@@ -1,1 +1,11 @@
-{"data":{"site":{"siteMetadata":{"title":"Studio Edwin","description":"Studio Edwin based Seoul, Korea","author":"edwin"}}}}
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "title": "Studio Edwin",
+        "description": "Interior Design & Construction STUDIO EDWIN",
+        "author": "edwin"
+      }
+    }
+  }
+}

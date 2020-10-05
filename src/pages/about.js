@@ -1,15 +1,15 @@
-import React from "react"
-import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
+import React from "react";
+import { graphql, StaticQuery } from "gatsby";
+import Img from "gatsby-image";
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from "../components/layout";
+import SEO from "../components/seo";
 
-import "../style/normalize.css"
-import "../style/all.scss"
+import "../style/normalize.css";
+import "../style/all.scss";
 
 const AboutPage = ({ data }, location) => {
-  const siteTitle = data.site.siteMetadata.title
+  const siteTitle = data.site.siteMetadata.title;
 
   return (
     <Layout title={siteTitle}>
@@ -18,8 +18,8 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            Interior Design & Construction <br /> STUDIO EDWIN <br />
+            인테리어 | 건축 | 디자인
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -52,8 +52,8 @@ const AboutPage = ({ data }, location) => {
         </div>
       </article>
     </Layout>
-  )
-}
+  );
+};
 
 const indexQuery = graphql`
   query {
@@ -72,7 +72,7 @@ const indexQuery = graphql`
       }
     }
   }
-`
+`;
 
 export default props => (
   <StaticQuery
@@ -81,4 +81,4 @@ export default props => (
       <AboutPage location={props.location} data={data} {...props} />
     )}
   />
-)
+);
