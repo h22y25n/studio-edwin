@@ -7,7 +7,7 @@
         "siteMetadata": { "title": "Studio Edwin", "author": "edwin" }
       },
       "allMarkdownRemark": {
-        "totalCount": 1,
+        "totalCount": 2,
         "edges": [
           {
             "node": {
@@ -15,8 +15,8 @@
               "fields": { "slug": "/dal-commacaron/" },
               "frontmatter": {
                 "date": "May 07, 2020",
-                "title": "Dal,caron 위례점",
-                "description": "그냥 지나칠 수 없는 마카롱의 유혹 / 달콤마카롱 위례점 / 마카롱가게 인테리어 / 인테리어 / 스튜디오에드윈 / STUDIO EDWIN",
+                "title": "Dal,caron 인테리어",
+                "description": "그냥 지나칠 수 없는 마카롱의 유혹 마카롱가게 인테리어",
                 "tags": ["store", "인테리어"],
                 "thumbnail": {
                   "childImageSharp": {
@@ -26,6 +26,29 @@
                       "src": "/static/17668325d8fd1d9873b20c0c527a72ae/4fe8c/dalcommacaron-04.jpg",
                       "srcSet": "/static/17668325d8fd1d9873b20c0c527a72ae/722c4/dalcommacaron-04.jpg 340w,\n/static/17668325d8fd1d9873b20c0c527a72ae/4fe8c/dalcommacaron-04.jpg 600w",
                       "sizes": "(max-width: 600px) 100vw, 600px"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "excerpt": "오늘은 파리스토 강남점 프로젝트를 소개합니다. 맞춤정장 가게로 이번에 맞춤정장, 기성복을 같이 런칭하게되면서\n삼성동으로 이사롤 하게 되셨다고 합니다! 맞춤정장이라고 하면, 벽돌, 우드 느낌이 강한 느낌이지만\n약…",
+              "fields": { "slug": "/store-paristo/iindex/" },
+              "frontmatter": {
+                "date": "September 27, 2019",
+                "title": "테일러샵 파리스토 인테리어",
+                "description": "모던 클래식 테일러샵 파리스토 인테리어",
+                "tags": ["store", "인테리어", "테일러샵"],
+                "thumbnail": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEaCpuQ24//xAAaEAACAwEBAAAAAAAAAAAAAAABAgAREgMi/9oACAEBAAEFAuA8iVFQ4Rci5//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAaEAABBQEAAAAAAAAAAAAAAAABAAIQESFB/9oACAEBAAY/AuJ+3kNNgBHSbj//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhMUH/2gAIAQEAAT8hoiUN11jcLNNNjGQPRXCE5ETN8P/aAAwDAQACAAMAAAAQrP8A/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QQn//xAAWEQEBAQAAAAAAAAAAAAAAAAABEDH/2gAIAQIBAT8QFyP/xAAYEAEBAQEBAAAAAAAAAAAAAAABESEAUf/aAAgBAQABPxBKU/BLOvcwhmrs65VTqYGbSrVcDkSnUgNvq8QFETO//9k=",
+                      "aspectRatio": 1.3492063492063493,
+                      "src": "/static/a48c544bc22003d195434b85fcc7dfa1/c1303/paristo-25.jpg",
+                      "srcSet": "/static/a48c544bc22003d195434b85fcc7dfa1/722c4/paristo-25.jpg 340w,\n/static/a48c544bc22003d195434b85fcc7dfa1/1d671/paristo-25.jpg 680w,\n/static/a48c544bc22003d195434b85fcc7dfa1/c1303/paristo-25.jpg 825w",
+                      "sizes": "(max-width: 825px) 100vw, 825px"
                     }
                   }
                 }

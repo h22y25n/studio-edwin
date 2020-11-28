@@ -3,14 +3,13 @@
     "site": { "siteMetadata": { "title": "Studio Edwin" } },
     "allMarkdownRemark": {
       "distinct": [
-        "blue",
-        "color",
-        "future-funk",
-        "green",
-        "retrowave",
         "store",
-        "vaporwave",
-        "인테리어"
+        "강화도",
+        "건축",
+        "노출콘크리트",
+        "인테리어",
+        "전원주택",
+        "테일러샵"
       ]
     }
   }

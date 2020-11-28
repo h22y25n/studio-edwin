@@ -1,9 +1,9 @@
 ---
-title: Dal,caron 위례점
+title: Dal,caron 인테리어
 date: "2020-05-07"
 tags: [store, 인테리어]
 thumbnail: ./dalcommacaron-04.jpg
-description: 그냥 지나칠 수 없는 마카롱의 유혹 / 달콤마카롱 위례점 / 마카롱가게 인테리어 / 인테리어 / 스튜디오에드윈 / STUDIO EDWIN
+description: 그냥 지나칠 수 없는 마카롱의 유혹 마카롱가게 인테리어
 ---
 
 ### 높은 층고를 살린 디자인

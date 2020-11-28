@@ -17,37 +17,38 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Interior Design & Construction <br /> STUDIO EDWIN <br />
-            인테리어 | 건축 | 디자인
+          <h2 id="Interior Design & Construction">
+            Interior Design & Construction
           </h2>
+          <h3 id="STUDIO EDWIN">STUDIO EDWIN</h3>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
+            <figcaption>Studio Edwin</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h3 id="We design your place">We design your place</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            카페, 의류 매장 등 상업 공간부터 주거 공간까지 폭넓은 영역의
+            인테리어 디자인과 시공을 진행하고 있습니다.
+            <br />
+            설계부터 시공, 감리까지 공사 전체를 디렉팅하며 디테일한 미팅과
+            지속적인 소통으로 고객의 감성과 취향이 담긴 공간을 만들어 드립니다.
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
+            인테리어는 무엇보다 공사가 끝난 뒤의 후처리 서비스도 매우 중요한
+            일이라고 생각합니다.
+            <br />
+            오랜 노하우로 신뢰할 수 있는 시공팀과, 젊은 감각의 디자인으로
+            <br />
+            공간의 가치를 높일 수 있도록 함께 하겠습니다.
+            <br />
+            수많은 업체들 가운데 신의성실로 처음부터 끝까지 최선을 다함을 약속
+            드립니다
           </p>
           <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+            <em>Edwin, 강 희범</em>
           </p>
         </div>
       </article>
