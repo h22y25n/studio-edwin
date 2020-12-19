@@ -11,11 +11,11 @@
         "edges": [
           {
             "node": {
-              "excerpt": "높은 층고를 살린 디자인 친한 지인이 마카롱 가게를 준비하는 과정에서 전체적인 인테리어 컨설팅을 맡아서 진행했습니다.\n상가를 처음 들어왔을시 복층구조를 목적으로 층고가 6M…",
+              "excerpt": "",
               "fields": { "slug": "/dal-commacaron/" },
               "frontmatter": {
                 "date": "May 07, 2020",
-                "title": "Dal,caron 인테리어",
+                "title": "Dal,caron",
                 "description": "그냥 지나칠 수 없는 마카롱의 유혹 마카롱가게 인테리어",
                 "tags": ["store", "인테리어"],
                 "thumbnail": {
@@ -34,12 +34,12 @@
           },
           {
             "node": {
-              "excerpt": "오늘은 파리스토 강남점 프로젝트를 소개합니다. 맞춤정장 가게로 이번에 맞춤정장, 기성복을 같이 런칭하게되면서\n삼성동으로 이사롤 하게 되셨다고 합니다! 맞춤정장이라고 하면, 벽돌, 우드 느낌이 강한 느낌이지만\n약…",
+              "excerpt": "​ ​",
               "fields": { "slug": "/store-paristo/iindex/" },
               "frontmatter": {
                 "date": "September 27, 2019",
                 "title": "테일러샵 파리스토 인테리어",
-                "description": "모던 클래식 테일러샵 파리스토 인테리어",
+                "description": "모던 클래식 테일러샵 파리스토",
                 "tags": ["store", "인테리어", "테일러샵"],
                 "thumbnail": {
                   "childImageSharp": {
