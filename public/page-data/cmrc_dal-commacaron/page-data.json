@@ -31,17 +31,17 @@
     "pageContext": {
       "slug": "/cmrc_dal-commacaron/",
       "previous": {
-        "fields": { "slug": "/cmrc_p_shoes/" },
+        "fields": { "slug": "/lvng_apt-02/" },
         "frontmatter": {
-          "title": "구두매장 디자인 제안",
-          "tags": ["상업공간", "인테리어", "구두매장", "3D", "디자인 제안"]
+          "title": "깔끔한 신혼집 인테리어",
+          "tags": ["주거공간", "인테리어", "아파트"]
         }
       },
       "next": {
-        "fields": { "slug": "/lvng_apt-01/" },
+        "fields": { "slug": "/cmrc_hairshop-bb/" },
         "frontmatter": {
-          "title": "송파구 아파트 인테리어",
-          "tags": ["주거공간", "인테리어", "아파트 인테리어", "아파트"]
+          "title": "헤어샵 인테리어",
+          "tags": ["상업공간", "인테리어", "헤어샵"]
         }
       }
     }

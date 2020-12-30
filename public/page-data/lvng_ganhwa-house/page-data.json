@@ -32,10 +32,10 @@
       "slug": "/lvng_ganhwa-house/",
       "previous": null,
       "next": {
-        "fields": { "slug": "/cmrc_paristo/iindex/" },
+        "fields": { "slug": "/cmrc_cafe-colaunt/" },
         "frontmatter": {
-          "title": "테일러샵 파리스토 인테리어",
-          "tags": ["상업공간", "인테리어", "테일러샵"]
+          "title": "카페겸 쇼룸 COLAUNT 인테리어",
+          "tags": ["상업공간", "인테리어", "카페"]
         }
       }
     }

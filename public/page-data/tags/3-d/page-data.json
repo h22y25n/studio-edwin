@@ -12,35 +12,6 @@
           {
             "node": {
               "excerpt": "",
-              "fields": { "slug": "/cmrc_p_auto-container/" },
-              "frontmatter": {
-                "date": "September 04, 2020",
-                "title": "오토 컨테이너 인테리어 디자인",
-                "description": null,
-                "tags": [
-                  "상업공간",
-                  "인테리어",
-                  "자동차샵",
-                  "3D",
-                  "디자인 제안"
-                ],
-                "thumbnail": {
-                  "childImageSharp": {
-                    "fluid": {
-                      "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABuhhR0hB//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECAxESI//aAAgBAQABBQJWTid9EEs1o1soXn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAeEAABAgcBAAAAAAAAAAAAAAAAAjEBEBEhInGRsf/aAAgBAQAGPwKkG0ZqV0t6PP8A/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARMVEhgf/aAAgBAQABPyEgf5MKade4IBCQvyoMiI7GChe9n//aAAwDAQACAAMAAAAQUM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAgIDAQAAAAAAAAAAAAABABExQVFxgaH/2gAIAQEAAT8Qp5hrQPKluWCBSHQEAkVRAPkGzXDCQZBUMBA4bthG5//Z",
-                      "aspectRatio": 1.837837837837838,
-                      "src": "/static/2204e33a546d3063a427c356cacbd388/ac53a/cmrc_p_auto-c-05.jpg",
-                      "srcSet": "/static/2204e33a546d3063a427c356cacbd388/722c4/cmrc_p_auto-c-05.jpg 340w,\n/static/2204e33a546d3063a427c356cacbd388/1d671/cmrc_p_auto-c-05.jpg 680w,\n/static/2204e33a546d3063a427c356cacbd388/ac53a/cmrc_p_auto-c-05.jpg 1360w,\n/static/2204e33a546d3063a427c356cacbd388/6eda9/cmrc_p_auto-c-05.jpg 2040w,\n/static/2204e33a546d3063a427c356cacbd388/eb7b7/cmrc_p_auto-c-05.jpg 2720w,\n/static/2204e33a546d3063a427c356cacbd388/6a059/cmrc_p_auto-c-05.jpg 6000w",
-                      "sizes": "(max-width: 1360px) 100vw, 1360px"
-                    }
-                  }
-                }
-              }
-            }
-          },
-          {
-            "node": {
-              "excerpt": "",
               "fields": { "slug": "/cmrc_p_shoes/" },
               "frontmatter": {
                 "date": "March 19, 2020",
@@ -53,17 +24,26 @@
                   "3D",
                   "디자인 제안"
                 ],
-                "thumbnail": {
-                  "childImageSharp": {
-                    "fluid": {
-                      "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHbLhYIH//EABsQAAICAwEAAAAAAAAAAAAAAAACARIDEyIx/9oACAEBAAEFAtvT5aiTDLVZKKeH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERIRIiMf/aAAgBAQAGPwKcULqmWFmnhh//xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMVH/2gAIAQEAAT8hMmGGqzELhfZelNrIssH1FOjIFawT/9oADAMBAAIAAwAAABAwz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EKr/xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAhMUGh8P/aAAgBAQABPxBWpkdBS5SgbQpak8ySzqNjTit45RvWQR3AvX1cKX3Qz//Z",
-                      "aspectRatio": 1.8085106382978724,
-                      "src": "/static/94101ac267cf2cace4fdf90f9267cf7d/ac53a/cmrc_p_shoes-01.jpg",
-                      "srcSet": "/static/94101ac267cf2cace4fdf90f9267cf7d/722c4/cmrc_p_shoes-01.jpg 340w,\n/static/94101ac267cf2cace4fdf90f9267cf7d/1d671/cmrc_p_shoes-01.jpg 680w,\n/static/94101ac267cf2cace4fdf90f9267cf7d/ac53a/cmrc_p_shoes-01.jpg 1360w,\n/static/94101ac267cf2cace4fdf90f9267cf7d/6eda9/cmrc_p_shoes-01.jpg 2040w,\n/static/94101ac267cf2cace4fdf90f9267cf7d/eb7b7/cmrc_p_shoes-01.jpg 2720w,\n/static/94101ac267cf2cace4fdf90f9267cf7d/6a059/cmrc_p_shoes-01.jpg 6000w",
-                      "sizes": "(max-width: 1360px) 100vw, 1360px"
-                    }
-                  }
-                }
+                "thumbnail": null
+              }
+            }
+          },
+          {
+            "node": {
+              "excerpt": "",
+              "fields": { "slug": "/cmrc_p_auto-container/" },
+              "frontmatter": {
+                "date": "March 04, 2020",
+                "title": "오토 컨테이너 인테리어 디자인 제안",
+                "description": null,
+                "tags": [
+                  "상업공간",
+                  "인테리어",
+                  "자동차샵",
+                  "3D",
+                  "디자인 제안"
+                ],
+                "thumbnail": null
               }
             }
           }

@@ -14,7 +14,17 @@
           "title": "젤르 헤어 헤어샵 인테리어",
           "date": "July 01, 2020",
           "description": "상업 공간 젤르 헤어 헤어샵 인테리어 디자인",
-          "thumbnail": null
+          "thumbnail": {
+            "childImageSharp": {
+              "fluid": {
+                "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHvkQbU4v/EABoQAQACAwEAAAAAAAAAAAAAAAEAAgMREiH/2gAIAQEAAQUCAZzqcbh5lyWS9LJT/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECESEQIv/aAAgBAQAGPwLy7XNIxvCQj//EABsQAAIDAAMAAAAAAAAAAAAAAAERACExQVFh/9oACAEBAAE/IUh9mELJs8QaAj1HEFioFwdgR2nc/9oADAMBAAIAAwAAABDD/wD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCI/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZ//EABoQAQEBAQEBAQAAAAAAAAAAAAEhEQAxQaH/2gAIAQEAAT8Qx5bQNND5ywRIeuxVXq+cMqEBwCLPzn1U1b2uLGqb3//Z",
+                "aspectRatio": 1.497797356828194,
+                "src": "/static/9df5b40286f6f814ee2221aebf37daa4/ac53a/cmrc_zele-hair-01.jpg",
+                "srcSet": "/static/9df5b40286f6f814ee2221aebf37daa4/722c4/cmrc_zele-hair-01.jpg 340w,\n/static/9df5b40286f6f814ee2221aebf37daa4/1d671/cmrc_zele-hair-01.jpg 680w,\n/static/9df5b40286f6f814ee2221aebf37daa4/ac53a/cmrc_zele-hair-01.jpg 1360w,\n/static/9df5b40286f6f814ee2221aebf37daa4/6eda9/cmrc_zele-hair-01.jpg 2040w,\n/static/9df5b40286f6f814ee2221aebf37daa4/50587/cmrc_zele-hair-01.jpg 2400w",
+                "sizes": "(max-width: 1360px) 100vw, 1360px"
+              }
+            }
+          }
         }
       }
     },
@@ -27,13 +37,7 @@
           "tags": ["주거공간", "인테리어", "아파트 인테리어", "아파트"]
         }
       },
-      "next": {
-        "fields": { "slug": "/cmrc_p_auto-container/" },
-        "frontmatter": {
-          "title": "오토 컨테이너 인테리어 디자인",
-          "tags": ["상업공간", "인테리어", "자동차샵", "3D", "디자인 제안"]
-        }
-      }
+      "next": null
     }
   },
   "staticQueryHashes": ["63159454"]

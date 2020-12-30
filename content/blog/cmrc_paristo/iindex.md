@@ -2,7 +2,7 @@
 title: 테일러샵 파리스토 인테리어
 date: "2019-09-27"
 tags: [상업공간, 인테리어, 테일러샵]
-thumbnail: ./paristo-25.jpg
+thumbnail: ./paristo-20.jpg
 description: 모던 클래식 테일러샵 파리스토
 ---
 
