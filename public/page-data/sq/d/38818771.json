@@ -3,12 +3,15 @@
     "site": { "siteMetadata": { "title": "Studio Edwin" } },
     "allMarkdownRemark": {
       "distinct": [
-        "store",
         "강화도",
         "건축",
         "노출콘크리트",
+        "상업공간",
+        "아파트",
+        "아파트 인테리어",
         "인테리어",
         "전원주택",
+        "주거공간",
         "테일러샵"
       ]
     }
