@@ -38,10 +38,10 @@
         }
       },
       "next": {
-        "fields": { "slug": "/cmrc_dal-commacaron/" },
+        "fields": { "slug": "/cmrc_p_shoes/" },
         "frontmatter": {
-          "title": "Dal,caron",
-          "tags": ["상업공간", "인테리어"]
+          "title": "구두매장 디자인 제안",
+          "tags": ["상업공간", "인테리어", "구두매장", "3D", "디자인 제안"]
         }
       }
     }

@@ -31,10 +31,10 @@
     "pageContext": {
       "slug": "/cmrc_dal-commacaron/",
       "previous": {
-        "fields": { "slug": "/cmrc_paristo/iindex/" },
+        "fields": { "slug": "/cmrc_p_shoes/" },
         "frontmatter": {
-          "title": "테일러샵 파리스토 인테리어",
-          "tags": ["상업공간", "인테리어", "테일러샵"]
+          "title": "구두매장 디자인 제안",
+          "tags": ["상업공간", "인테리어", "구두매장", "3D", "디자인 제안"]
         }
       },
       "next": {

@@ -37,7 +37,13 @@
           "tags": ["상업공간", "인테리어"]
         }
       },
-      "next": null
+      "next": {
+        "fields": { "slug": "/cmrc_zele-hair/" },
+        "frontmatter": {
+          "title": "젤르 헤어 헤어샵 인테리어",
+          "tags": ["상업공간", "인테리어", "헤어샵"]
+        }
+      }
     }
   },
   "staticQueryHashes": ["63159454"]
