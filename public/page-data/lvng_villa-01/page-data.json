@@ -31,10 +31,10 @@
     "pageContext": {
       "slug": "/lvng_villa-01/",
       "previous": {
-        "fields": { "slug": "/cmrc_paristo/iindex/" },
+        "fields": { "slug": "/lvng_ganhwa-house/" },
         "frontmatter": {
-          "title": "테일러샵 파리스토 인테리어",
-          "tags": ["상업공간", "인테리어", "테일러샵"]
+          "title": "강화도 전원 주택 건설",
+          "tags": ["주거공간", "건축", "노출콘크리트", "강화도", "전원주택"]
         }
       },
       "next": {

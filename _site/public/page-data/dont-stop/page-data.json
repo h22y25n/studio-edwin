@@ -1,0 +1,44 @@
+{
+  "componentChunkName": "component---src-templates-blog-post-js",
+  "path": "/dont-stop/",
+  "result": {
+    "data": {
+      "site": {
+        "siteMetadata": { "title": "Studio Edwin", "author": "edwin" }
+      },
+      "markdownRemark": {
+        "id": "11aab8ef-9721-5237-bb78-a6df0ac356ee",
+        "excerpt": "높은 층고를 살린 디자인 친한 지인이 마카롱 가게를 준비하는 과정에서 전체적인 인테리어 컨설팅을 맡아서 진행했습니다.\n상가를 처음 들어왔을시 복층구조를 목적으로 층고가 6M…",
+        "html": "<h3>높은 층고를 살린 디자인</h3>\n<p>친한 지인이 마카롱 가게를 준비하는 과정에서 전체적인 인테리어 컨설팅을 맡아서 진행했습니다.\n상가를 처음 들어왔을시 복층구조를 목적으로 층고가 6M로 구성되어 있던 상가였습니다.\n복층 구조로 하게되면 금액적인 부분이 많이 증가가 되어 높은 층고를 살린 디자인을 제안하였습니다.</p>\n<p>\n  <a\n    class=\"gatsby-resp-image-link\"\n    href=\"/static/ebfa43f48a813dacdc62cc11f62a02e8/f6133/dalcommacaron-07.jpg\"\n    style=\"display: block\"\n    target=\"_blank\"\n    rel=\"noopener\"\n  >\n  \n  <span\n    class=\"gatsby-resp-image-wrapper\"\n    style=\"position: relative; display: block; margin: 7vw 0; max-width: 600px; margin-left: auto; margin-right: auto;\"\n  >\n    <span\n      class=\"gatsby-resp-image-background-image\"\n      style=\"padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwABAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABPVKOJ470yPShj//EABwQAAICAwEBAAAAAAAAAAAAAAABAgMREiEiMf/aAAgBAQABBQKKJV5GhcSPQo5jDUyWcqok9V8//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAQUAAwAAAAAAAAAAAAAAAAECEBExIUGB/9oACAEBAAY/AimrFmHAi2bDfDe4/8QAHhAAAwEAAgIDAAAAAAAAAAAAAREhADFREEFhcYH/2gAIAQEAAT8hOYq5iQU6ucF0Ygf8jcV2ZOHUV85OQo80ex+sAQxQTDTZQh4P/9oADAMBAAIAAwAAABBLIHH/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAXEQADAQAAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/EEZf/8QAIBABAAIBBAIDAAAAAAAAAAAAAQARITFBUWGRobHB8f/aAAgBAQABPxBOwtSm5tALEcFHV/UIwhNnE1HIUfL4jpAF5DnnvqKmdzs/kIDuHQwxCsGYBIeopgKQYgHRpRjFmIDIAM6F6e4kAbY9z//Z'); background-size: cover; display: block;\"\n    >\n      <picture>\n        <source\n          srcset=\"/static/ebfa43f48a813dacdc62cc11f62a02e8/51a8e/dalcommacaron-07.webp 340w,\n/static/ebfa43f48a813dacdc62cc11f62a02e8/93222/dalcommacaron-07.webp 600w\"\n          sizes=\"(max-width: 600px) 100vw, 600px\"\n          type=\"image/webp\"\n        />\n        <source\n          srcset=\"/static/ebfa43f48a813dacdc62cc11f62a02e8/2e524/dalcommacaron-07.jpg 340w,\n/static/ebfa43f48a813dacdc62cc11f62a02e8/f6133/dalcommacaron-07.jpg 600w\"\n          sizes=\"(max-width: 600px) 100vw, 600px\"\n          type=\"image/jpeg\"\n        />\n        <img\n          class=\"gatsby-resp-image-image\"\n          style=\"width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;\"\n          src=\"/static/ebfa43f48a813dacdc62cc11f62a02e8/f6133/dalcommacaron-07.jpg\"\n          alt=\"Dal,caron\"\n          title=\"\"\n          src=\"/static/ebfa43f48a813dacdc62cc11f62a02e8/f6133/dalcommacaron-07.jpg\"\n        />\n      </picture>\n      </span>\n  </span>\n  \n  </a>\n    </p>\n<p>\n  <a\n    class=\"gatsby-resp-image-link\"\n    href=\"/static/b38a5db73f8866a1918ea8cdf2ed8a58/a8fee/dalcommacaron-01.jpg\"\n    style=\"display: block\"\n    target=\"_blank\"\n    rel=\"noopener\"\n  >\n  \n  <span\n    class=\"gatsby-resp-image-wrapper\"\n    style=\"position: relative; display: block; margin: 7vw 0; max-width: 720px; margin-left: auto; margin-right: auto;\"\n  >\n    <span\n      class=\"gatsby-resp-image-background-image\"\n      style=\"padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHItf0zlhk1H3MkxayBX//EAB8QAAEDBAMBAAAAAAAAAAAAAAEAAgMEESExEhMiM//aAAgBAQABBQJrbnrWlS5Fszi01J8G+TUEGbSK4hf/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwFj/8QAHRAAAgEEAwAAAAAAAAAAAAAAAAECECBBcUKRkv/aAAgBAQAGPwLPRy80mzJIlsextOz/xAAcEAACAgMBAQAAAAAAAAAAAAAAAREhMUFRYZH/2gAIAQEAAT8hfdFbiQ6uL6LTaI+jUjisIfLDhAfSvoJTdsxaBp8FSFQznL+nif/aAAwDAQACAAMAAAAQ4wuC/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8QCP/EABgRAAMBAQAAAAAAAAAAAAAAAAABESEx/9oACAECAQE/EHDwXBlP/8QAHxABAQADAAEFAQAAAAAAAAAAAREAITFBYXGhscHh/9oACAEBAAE/EIQg6eT2zbV8Fb+cWNCMQRyGvQtPDianR9PXKRTvZlpO/h/c3AstWw1hDlGqnMIOleGLQySdY2f25//Z'); background-size: cover; display: block;\"\n    >\n      <picture>\n        <source\n          srcset=\"/static/b38a5db73f8866a1918ea8cdf2ed8a58/51a8e/dalcommacaron-01.webp 340w,\n/static/b38a5db73f8866a1918ea8cdf2ed8a58/713b7/dalcommacaron-01.webp 680w,\n/static/b38a5db73f8866a1918ea8cdf2ed8a58/71e09/dalcommacaron-01.webp 720w\"\n          sizes=\"(max-width: 720px) 100vw, 720px\"\n          type=\"image/webp\"\n        />\n        <source\n          srcset=\"/static/b38a5db73f8866a1918ea8cdf2ed8a58/2e524/dalcommacaron-01.jpg 340w,\n/static/b38a5db73f8866a1918ea8cdf2ed8a58/d330d/dalcommacaron-01.jpg 680w,\n/static/b38a5db73f8866a1918ea8cdf2ed8a58/a8fee/dalcommacaron-01.jpg 720w\"\n          sizes=\"(max-width: 720px) 100vw, 720px\"\n          type=\"image/jpeg\"\n        />\n        <img\n          class=\"gatsby-resp-image-image\"\n          style=\"width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;\"\n          src=\"/static/b38a5db73f8866a1918ea8cdf2ed8a58/a8fee/dalcommacaron-01.jpg\"\n          alt=\"Dal,caron\"\n          title=\"\"\n          src=\"/static/b38a5db73f8866a1918ea8cdf2ed8a58/a8fee/dalcommacaron-01.jpg\"\n        />\n      </picture>\n      </span>\n  </span>\n  \n  </a>\n    </p>",
+        "frontmatter": {
+          "title": "달콤마카롱 위례점",
+          "date": "May 07, 2019",
+          "description": "그냥 지나칠 수 없는 마카롱의 유혹 / 달콤마카롱 위례점 / 마카롱가게 인테리어 / 인테리어 / 스튜디오에드윈 / STUDIO EDWIN",
+          "thumbnail": {
+            "childImageSharp": {
+              "fluid": {
+                "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAF2pkKmIVj/AP/EABkQAAIDAQAAAAAAAAAAAAAAAAECAAMREv/aAAgBAQABBQIINsTkROZa+Gf/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwFJ/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BGf/EABgQAAIDAAAAAAAAAAAAAAAAAAIQESBh/9oACAEBAAY/Ah2kL//EABkQAQEBAQEBAAAAAAAAAAAAAAEAESFBUf/aAAgBAQABPyFGzwMASd8uAJufZtjtt//aAAwDAQACAAMAAAAQu/8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EARf/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/ECVf/8QAHBABAQEBAAIDAAAAAAAAAAAAAREAITFBUWGB/9oACAEBAAE/EPYABZ0KaJtWV+9d9X7kq2IIswpvd8QDN9+e7//Z",
+                "aspectRatio": 1.3333333333333333,
+                "src": "/static/17668325d8fd1d9873b20c0c527a72ae/4fe8c/dalcommacaron-04.jpg",
+                "srcSet": "/static/17668325d8fd1d9873b20c0c527a72ae/722c4/dalcommacaron-04.jpg 340w,\n/static/17668325d8fd1d9873b20c0c527a72ae/4fe8c/dalcommacaron-04.jpg 600w",
+                "sizes": "(max-width: 600px) 100vw, 600px"
+              }
+            }
+          }
+        }
+      }
+    },
+    "pageContext": {
+      "slug": "/dont-stop/",
+      "previous": {
+        "fields": { "slug": "/its-all-blue/" },
+        "frontmatter": { "title": "It's all blue", "tags": ["blue", "color"] }
+      },
+      "next": {
+        "fields": { "slug": "/darkness/" },
+        "frontmatter": { "title": "Darkness", "tags": null }
+      }
+    }
+  },
+  "staticQueryHashes": ["63159454"]
+}

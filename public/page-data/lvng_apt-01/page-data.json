@@ -31,19 +31,13 @@
     "pageContext": {
       "slug": "/lvng_apt-01/",
       "previous": {
-        "fields": { "slug": "/cmrc_hairshop-bb/" },
+        "fields": { "slug": "/cmrc_dal-commacaron/" },
         "frontmatter": {
-          "title": "헤어샵 인테리어",
-          "tags": ["상업공간", "인테리어", "헤어샵"]
+          "title": "Dal,caron",
+          "tags": ["상업공간", "인테리어"]
         }
       },
-      "next": {
-        "fields": { "slug": "/cmrc_hairshop-zele/" },
-        "frontmatter": {
-          "title": "젤르 헤어 헤어샵 인테리어",
-          "tags": ["상업공간", "인테리어", "헤어샵"]
-        }
-      }
+      "next": null
     }
   },
   "staticQueryHashes": ["63159454"]

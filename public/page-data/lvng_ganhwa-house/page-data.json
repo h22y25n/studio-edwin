@@ -32,10 +32,10 @@
       "slug": "/lvng_ganhwa-house/",
       "previous": null,
       "next": {
-        "fields": { "slug": "/cmrc_cafe-colaunt/" },
+        "fields": { "slug": "/cmrc_p_auto-container/" },
         "frontmatter": {
-          "title": "카페겸 쇼룸 COLAUNT 인테리어",
-          "tags": ["상업공간", "인테리어", "카페"]
+          "title": "오토 컨테이너 인테리어 디자인 제안",
+          "tags": ["상업공간", "인테리어", "자동차샵", "3D", "디자인 제안"]
         }
       }
     }

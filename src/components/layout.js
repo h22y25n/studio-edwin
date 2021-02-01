@@ -36,9 +36,9 @@ const Layout = props => {
               {/* <li className="nav-elements" role="menuitem">
                 <Link to={`/elements`}>Elements</Link>
               </li> */}
-              <li className="nav-tags" role="menuitem">
+              {/* <li className="nav-tags" role="menuitem">
                 <Link to={`/tags`}>Tags</Link>
-              </li>
+              </li> */}
             </ul>
           </nav>
           <div className="site-head-center">
@@ -47,7 +47,7 @@ const Layout = props => {
             </Link>
           </div>
           <div className="site-head-right">
-            <div className="social-links">
+            {/* <div className="social-links">
               <a
                 href="https://blog.naver.com/khb3753"
                 title="Blog"
@@ -72,7 +72,7 @@ const Layout = props => {
               >
                 Kakao Talk
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
       </header>

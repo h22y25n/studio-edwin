@@ -21,17 +21,17 @@
     "pageContext": {
       "slug": "/cmrc_p_auto-container/",
       "previous": {
-        "fields": { "slug": "/lvng_villa-01/" },
+        "fields": { "slug": "/lvng_ganhwa-house/" },
         "frontmatter": {
-          "title": "신혼부부 주택 인테리어",
-          "tags": ["주거공간", "인테리어", "주택"]
+          "title": "강화도 전원 주택 건설",
+          "tags": ["주거공간", "건축", "노출콘크리트", "강화도", "전원주택"]
         }
       },
       "next": {
-        "fields": { "slug": "/cmrc_auto-customshop/" },
+        "fields": { "slug": "/cmrc_p_shoes/" },
         "frontmatter": {
-          "title": "하남 자동차 튜닝샵 JL CUSTOM 인테리어",
-          "tags": ["상업공간", "인테리어", "카페"]
+          "title": "구두매장 디자인 제안",
+          "tags": ["상업공간", "인테리어", "구두매장", "3D", "디자인 제안"]
         }
       }
     }

@@ -1,0 +1,9 @@
+{
+  "componentChunkName": "component---src-pages-404-js",
+  "path": "/404.html",
+  "result": {
+    "data": { "site": { "siteMetadata": { "title": "Studio Edwin" } } },
+    "pageContext": {}
+  },
+  "staticQueryHashes": ["63159454"]
+}

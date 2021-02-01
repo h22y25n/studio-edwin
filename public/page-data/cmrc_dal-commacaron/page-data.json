@@ -31,19 +31,13 @@
     "pageContext": {
       "slug": "/cmrc_dal-commacaron/",
       "previous": {
-        "fields": { "slug": "/lvng_apt-02/" },
+        "fields": { "slug": "/cmrc_p_shoes/" },
         "frontmatter": {
-          "title": "깔끔한 신혼집 인테리어",
-          "tags": ["주거공간", "인테리어", "아파트"]
+          "title": "구두매장 디자인 제안",
+          "tags": ["상업공간", "인테리어", "구두매장", "3D", "디자인 제안"]
         }
       },
-      "next": {
-        "fields": { "slug": "/cmrc_hairshop-bb/" },
-        "frontmatter": {
-          "title": "헤어샵 인테리어",
-          "tags": ["상업공간", "인테리어", "헤어샵"]
-        }
-      }
+      "next": null
     }
   },
   "staticQueryHashes": ["63159454"]

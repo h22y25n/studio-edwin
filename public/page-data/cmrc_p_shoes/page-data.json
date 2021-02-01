@@ -21,17 +21,17 @@
     "pageContext": {
       "slug": "/cmrc_p_shoes/",
       "previous": {
-        "fields": { "slug": "/cmrc_auto-customshop/" },
+        "fields": { "slug": "/cmrc_p_auto-container/" },
         "frontmatter": {
-          "title": "하남 자동차 튜닝샵 JL CUSTOM 인테리어",
-          "tags": ["상업공간", "인테리어", "카페"]
+          "title": "오토 컨테이너 인테리어 디자인 제안",
+          "tags": ["상업공간", "인테리어", "자동차샵", "3D", "디자인 제안"]
         }
       },
       "next": {
-        "fields": { "slug": "/cmrc_winebar-sc/" },
+        "fields": { "slug": "/cmrc_dal-commacaron/" },
         "frontmatter": {
-          "title": "술잘못마시는주인이하는와인바 인테리어",
-          "tags": ["상업공간", "인테리어", "와인바"]
+          "title": "Dal,caron",
+          "tags": ["상업공간", "인테리어"]
         }
       }
     }
